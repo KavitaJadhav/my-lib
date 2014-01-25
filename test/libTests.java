@@ -10,4 +10,8 @@ public class libTests {
     public void myFirstTest(){
         assertEquals(1,1);
     }
+    @Test
+    public void mySecondTest(){
+        assertEquals(2,2);
+    }
 }
